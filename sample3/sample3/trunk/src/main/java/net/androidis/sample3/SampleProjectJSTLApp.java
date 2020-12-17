@@ -1,5 +1,5 @@
 package net.androidis.sample3;
-
+//hello1
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 //import org.springframework.context.annotation.ComponentScan;
